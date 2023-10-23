@@ -2,6 +2,10 @@
 
 Una aplicación web simple que utiliza la PokeAPI para obtener información sobre Pokémon y muestra sus datos. Esta aplicación se centra en el aprendizaje de CSS Grid, el uso de JavaScript para realizar solicitudes a la API y la implementación de filtros para clasificar a los Pokémon. Además, se planea agregar una paginación en futuras actualizaciones.
 
+## Screenshot
+<img src="./img/screenshots/screenshot-app.png">
+
+
 ## Características
 
 - Muestra información detallada de Pokémon.
